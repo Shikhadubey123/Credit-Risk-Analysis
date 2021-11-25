@@ -1,0 +1,795 @@
+Age,Sex,Job,Housing,Saving accounts,Checking account,Credit amount,Duration,Purpose,Credit_Risk,Total_Credit_Score,reject
+67,male,Skilled,own,little,little,1169,6,radio/TV,Good,831.482233108009,Accepted
+49,male,Unskilled-Resident,own,little,little,2096,12,education,Good,817.0505562818903,Accepted
+53,male,Skilled,free,little,little,4870,24,car,Good,510.1559532007078,Accepted
+53,male,Skilled,own,quite rich,little,2835,24,furniture/equipment,Good,545.6301988085365,Accepted
+61,male,Unskilled-Resident,own,rich,little,3059,12,radio/TV,Good,577.8242805940329,Accepted
+25,female,Skilled,rent,little,moderate,1295,12,car,Good,808.9166712563353,Accepted
+22,female,Skilled,own,little,moderate,1567,12,radio/TV,Good,835.2829366018863,Accepted
+60,male,Unskilled-Resident,own,little,little,1199,24,car,Good,769.7445836614858,Accepted
+28,female,Skilled,rent,little,little,1403,15,car,Good,806.372869644793,Accepted
+32,female,Unskilled-Resident,own,moderate,little,1282,24,radio/TV,Good,795.684267452295,Accepted
+53,male,Skilled,own,little,little,2424,24,radio/TV,Good,529.8583291393238,Accepted
+31,male,Skilled,own,quite rich,little,3430,24,radio/TV,Good,551.3149883351234,Accepted
+48,male,Skilled,own,little,little,2134,9,car,Good,811.779857169393,Accepted
+44,male,Skilled,rent,quite rich,little,2647,6,radio/TV,Good,583.2968254613629,Accepted
+48,male,Unskilled-Resident,rent,little,little,2241,10,car,Good,792.9795334881933,Accepted
+44,male,Skilled,own,moderate,moderate,1804,12,car,Good,799.6434228951282,Accepted
+26,male,Skilled,own,little,little,2069,10,furniture/equipment,Good,830.1399331725722,Accepted
+36,male,Unskilled-Resident,own,little,little,1374,6,furniture/equipment,Good,832.5765375308882,Accepted
+39,male,Unskilled-Resident,own,little,little,426,6,radio/TV,Good,831.482233108009,Accepted
+42,female,Skilled,rent,rich,rich,409,12,radio/TV,Good,875.4333743574249,Accepted
+34,male,Skilled,own,little,moderate,2415,7,radio/TV,Good,575.2831496219644,Accepted
+36,male,Skilled,own,rich,moderate,1913,18,business,Good,799.5447169086119,Accepted
+27,male,Skilled,own,little,little,4020,24,furniture/equipment,Good,540.6524634781521,Accepted
+57,male,Unskilled-Resident,rent,little,little,1264,12,business,Good,792.9795334881933,Accepted
+33,female,Highly Skilled,own,little,rich,1474,12,furniture/equipment,Good,832.2875548991597,Accepted
+25,male,Unskilled-Resident,own,little,moderate,4746,45,radio/TV,Good,487.55250366583806,Accepted
+37,male,Skilled,own,little,rich,2100,18,radio/TV,Good,843.0165724582504,Accepted
+37,male,Skilled,own,little,rich,1225,10,domestic appliances,Good,862.2766950887124,Accepted
+24,male,Skilled,own,little,moderate,458,9,radio/TV,Good,844.571609998691,Accepted
+26,male,Skilled,own,quite rich,moderate,1158,12,radio/TV,Good,850.5022879454926,Accepted
+35,female,Highly Skilled,own,little,little,1393,11,car,Good,773.0438296803086,Accepted
+39,male,Skilled,own,quite rich,little,2299,36,radio/TV,Good,778.3463648387217,Accepted
+23,female,Unskilled-Non Resident,rent,quite rich,little,1352,6,car,Good,839.1202177516667,Accepted
+28,female,Skilled,own,moderate,little,2073,12,radio/TV,Good,835.2829366018863,Accepted
+29,male,Unskilled-Resident,own,little,moderate,2333,24,furniture/equipment,Good,530.9526335622031,Accepted
+25,male,Skilled,own,little,little,1262,12,radio/TV,Good,832.4351757244261,Accepted
+31,male,Skilled,own,little,little,3378,18,car,Good,521.8889742267676,Accepted
+57,male,Skilled,free,little,moderate,2225,36,car,Good,740.5768766790392,Accepted
+26,male,Unskilled-Resident,own,little,little,783,6,car,Good,824.869234060075,Accepted
+23,female,Highly Skilled,own,little,rich,1961,18,car,Good,803.0248862460307,Accepted
+27,male,Skilled,own,little,moderate,1391,9,business,Good,824.869234060075,Accepted
+50,male,Skilled,own,little,moderate,1537,15,radio/TV,Good,816.8019972222019,Accepted
+61,male,Highly Skilled,free,little,moderate,1953,36,business,Good,707.7399756120263,Accepted
+26,female,Skilled,own,little,little,3181,24,radio/TV,Good,545.7954669074661,Accepted
+29,female,Skilled,own,little,little,2171,12,radio/TV,Good,825.5831066859374,Accepted
+22,male,Skilled,own,rich,moderate,1007,12,car,Good,830.7999120068766,Accepted
+37,male,Skilled,free,little,little,1819,36,education,Good,761.3735570405344,Accepted
+25,female,Skilled,own,little,little,2394,36,radio/TV,Good,516.6277599250195,Accepted
+46,male,Unskilled-Resident,rent,little,little,730,7,radio/TV,Good,824.8183437010741,Accepted
+51,male,Highly Skilled,free,little,little,1164,8,vacation/others,Good,798.6453320409962,Accepted
+40,male,Highly Skilled,own,little,little,1977,36,education,Good,725.1471089987884,Accepted
+66,male,Highly Skilled,free,little,little,1526,12,car,Good,766.8065218281154,Accepted
+51,male,Skilled,own,little,moderate,4771,11,radio/TV,Good,559.7571683729664,Accepted
+22,male,Skilled,own,little,moderate,3832,30,furniture/equipment,Good,511.4847564957055,Accepted
+47,male,Skilled,own,quite rich,little,1213,15,radio/TV,Good,834.8691094432684,Accepted
+24,female,Unskilled-Resident,rent,moderate,little,1568,18,business,Good,787.3613060740195,Accepted
+58,female,Unskilled-Resident,own,little,little,1755,24,vacation/others,Good,792.2947204775619,Accepted
+52,male,Unskilled-Resident,own,little,little,2315,10,radio/TV,Good,819.3457988337442,Accepted
+29,female,Highly Skilled,own,little,little,1412,12,business,Good,773.0438296803086,Accepted
+27,female,Skilled,own,little,moderate,1295,18,furniture/equipment,Good,811.4323288677165,Accepted
+30,male,Highly Skilled,own,moderate,little,2249,18,car,Good,748.6407036205326,Accepted
+28,male,Skilled,own,little,little,1108,12,repairs,Good,832.4351757244261,Accepted
+56,male,Skilled,own,little,little,618,12,radio/TV,Good,819.3457988337442,Accepted
+54,male,Skilled,own,little,little,1409,12,car,Good,799.6434228951282,Accepted
+33,female,Unskilled-Resident,own,little,little,797,12,radio/TV,Good,825.5831066859374,Accepted
+20,male,Skilled,rent,little,rich,3617,24,furniture/equipment,Good,575.8251659033061,Accepted
+54,male,Skilled,own,rich,moderate,1318,12,car,Good,817.7105351161947,Accepted
+61,female,Skilled,own,little,little,2012,12,education,Good,819.8983171593504,Accepted
+34,male,Skilled,own,moderate,moderate,2622,18,business,Good,521.8889742267676,Accepted
+36,male,Skilled,own,little,moderate,2337,36,radio/TV,Good,504.08016913161043,Accepted
+41,male,Unskilled-Resident,rent,moderate,little,1469,24,car,Good,763.0806942545508,Accepted
+24,male,Skilled,rent,little,moderate,2323,36,radio/TV,Good,507.1161096406245,Accepted
+24,female,Skilled,own,little,little,932,6,radio/TV,Good,847.4193708761511,Accepted
+35,male,Skilled,rent,little,moderate,1919,9,furniture/equipment,Good,825.9126481239533,Accepted
+26,male,Skilled,rent,little,little,2445,12,car,Good,546.4802799180975,Accepted
+35,male,Skilled,own,quite rich,moderate,1410,14,business,Good,818.5562804793855,Accepted
+31,male,Skilled,own,moderate,moderate,1449,6,business,Good,815.1694041441261,Accepted
+23,female,Skilled,rent,little,rich,392,15,education,Good,865.6165948636441,Accepted
+35,male,Skilled,own,quite rich,little,1680,12,radio/TV,Good,840.8024580295438,Accepted
+27,female,Skilled,rent,little,little,2132,10,furniture/equipment,Good,826.3238046430974,Accepted
+23,female,Skilled,own,quite rich,little,4281,33,furniture/equipment,Good,532.3996295942321,Accepted
+36,male,Highly Skilled,own,quite rich,moderate,2366,12,car,Good,528.6745505631372,Accepted
+25,female,Skilled,own,little,little,1835,21,radio/TV,Good,813.7275714195704,Accepted
+24,male,Unskilled-Resident,rent,little,little,1768,12,furniture/equipment,Good,823.4760437656373,Accepted
+63,male,Skilled,free,little,rich,781,10,car,Good,841.4800147272172,Accepted
+27,female,Skilled,rent,little,moderate,1924,18,furniture/equipment,Good,804.7684394607816,Accepted
+30,male,Skilled,own,little,little,2121,12,car,Good,803.0329698698613,Accepted
+40,male,Unskilled-Resident,own,little,little,701,12,radio/TV,Good,819.3457988337442,Accepted
+30,male,Skilled,own,little,moderate,639,12,repairs,Good,822.7353458084773,Accepted
+34,male,Highly Skilled,own,little,moderate,1860,12,car,Good,770.1960688028485,Accepted
+29,female,Skilled,own,little,little,3499,12,car,Good,546.2921002865436,Accepted
+27,male,Unskilled-Resident,own,little,little,2708,15,furniture/equipment,Good,568.0075011002522,Accepted
+47,male,Skilled,free,little,little,1984,18,furniture/equipment,Good,795.4951910995744,Accepted
+38,female,Skilled,own,little,little,1240,12,radio/TV,Good,825.5831066859374,Accepted
+66,male,Unskilled-Resident,own,quite rich,moderate,766,12,radio/TV,Good,837.4129110548107,Accepted
+35,male,Skilled,own,little,moderate,2728,15,radio/TV,Good,560.602913736157,Accepted
+44,female,Unskilled-Resident,rent,little,rich,1881,12,radio/TV,Good,857.3662621363584,Accepted
+27,male,Unskilled-Non Resident,own,rich,rich,709,6,car,Good,884.7729381132307,Accepted
+27,male,Highly Skilled,own,little,little,3416,27,radio/TV,Good,480.94309798054667,Accepted
+22,male,Skilled,own,little,little,2462,18,furniture/equipment,Good,548.9959375294786,Accepted
+23,female,Skilled,own,little,little,2288,21,furniture/equipment,Good,811.4323288677165,Accepted
+39,female,Skilled,own,little,little,860,6,car,Good,814.6276180468532,Accepted
+51,female,Skilled,own,moderate,little,682,12,car,Good,802.4911837725883,Accepted
+46,male,Skilled,own,rich,little,1582,18,radio/TV,Good,815.8575458724948,Accepted
+42,male,Skilled,free,moderate,little,1346,6,radio/TV,Good,831.482233108009,Accepted
+38,male,Skilled,own,little,little,1924,10,radio/TV,Good,822.7353458084773,Accepted
+20,female,Skilled,rent,little,little,1282,12,furniture/equipment,Good,826.3238046430974,Accepted
+48,male,Skilled,own,moderate,little,1288,9,repairs,Good,831.482233108009,Accepted
+45,male,Unskilled-Resident,own,little,little,339,12,education,Good,817.0505562818903,Accepted
+38,male,Skilled,own,moderate,moderate,3512,24,car,Good,513.5455001754409,Accepted
+34,male,Unskilled-Resident,own,little,little,1898,6,radio/TV,Good,834.8717800827421,Accepted
+36,male,Skilled,own,moderate,little,2872,24,radio/TV,Good,533.2478761140569,Accepted
+30,female,Skilled,own,little,little,1055,18,car,Good,784.3253655650055,Accepted
+36,male,Skilled,own,quite rich,little,1262,15,domestic appliances,Good,835.9634138661476,Accepted
+36,male,Skilled,own,quite rich,little,909,36,car,Good,762.0335358748388,Accepted
+32,male,Skilled,own,quite rich,little,2978,6,furniture/equipment,Good,591.055019291177,Accepted
+33,female,Skilled,own,little,little,1131,18,furniture/equipment,Good,801.7324989517676,Accepted
+20,female,Skilled,own,rich,moderate,1577,11,furniture/equipment,Good,851.0548062710989,Accepted
+25,female,Skilled,rent,little,little,3972,24,furniture/equipment,Good,536.8363349486773,Accepted
+31,male,Skilled,own,little,moderate,1935,24,business,Good,773.1341306362189,Accepted
+33,male,Skilled,rent,little,little,950,15,car,Good,793.825278851384,Accepted
+26,female,Skilled,own,little,little,763,12,furniture/equipment,Good,832.9876940500324,Accepted
+34,female,Highly Skilled,own,little,moderate,2064,24,furniture/equipment,Good,760.5521238334283,Accepted
+33,male,Skilled,own,little,moderate,1414,8,radio/TV,Good,834.8717800827421,Accepted
+26,male,Skilled,own,little,little,3414,21,education,Good,548.9959375294786,Accepted
+42,male,Skilled,own,little,little,2577,12,furniture/equipment,Good,557.4619258211125,Accepted
+52,male,Skilled,own,quite rich,little,338,6,radio/TV,Good,849.5493453290755,Accepted
+31,male,Highly Skilled,rent,little,little,1963,12,radio/TV,Good,783.2345553345295,Accepted
+65,male,Skilled,own,little,little,571,21,car,Good,778.0880577128123,Accepted
+40,male,Unskilled-Resident,own,little,little,1647,21,car,Good,778.0880577128123,Accepted
+50,male,Skilled,own,rich,little,3777,24,furniture/equipment,Good,545.6301988085365,Accepted
+36,male,Skilled,own,little,moderate,884,18,car,Good,781.4776046875454,Accepted
+31,male,Skilled,own,little,little,1360,15,radio/TV,Good,820.191544196935,Accepted
+74,female,Highly Skilled,free,little,moderate,5129,9,car,Good,522.2020865190625,Accepted
+68,male,Unskilled-Non Resident,free,little,moderate,1175,16,car,Good,778.0880577128123,Accepted
+20,male,Skilled,own,moderate,little,674,12,radio/TV,Good,832.4351757244261,Accepted
+33,female,Skilled,own,little,moderate,3244,18,furniture/equipment,Good,542.1438684909898,Accepted
+54,male,Highly Skilled,own,rich,little,4591,24,business,Good,495.3861643547615,Accepted
+34,male,Unskilled-Resident,free,moderate,moderate,3844,48,business,Good,458.15029781127305,Accepted
+36,male,Skilled,own,little,moderate,3915,27,business,Good,484.3777931929944,Accepted
+29,male,Skilled,rent,little,little,2108,6,radio/TV,Good,828.2078906758072,Accepted
+34,female,Highly Skilled,own,little,moderate,1501,9,education,Good,802.5873973413355,Accepted
+28,female,Skilled,own,little,little,1382,6,radio/TV,Good,847.4193708761511,Accepted
+27,female,Skilled,rent,moderate,moderate,951,12,furniture/equipment,Good,826.3238046430974,Accepted
+36,male,Skilled,free,little,moderate,2760,24,car,Good,513.5455001754409,Accepted
+40,male,Highly Skilled,own,little,moderate,4297,18,furniture/equipment,Good,503.06965957178375,Accepted
+52,male,Skilled,own,quite rich,little,936,9,education,Good,847.2541027772216,Accepted
+27,male,Unskilled-Resident,own,little,little,1168,12,car,Good,812.7327997858101,Accepted
+26,male,Skilled,own,little,little,5117,27,business,Good,494.0776231089433,Accepted
+21,male,Skilled,rent,little,little,902,12,education,Good,823.4760437656373,Accepted
+38,male,Unskilled-Resident,own,little,little,1495,12,car,Good,803.0329698698613,Accepted
+43,male,Skilled,own,little,little,1935,12,furniture/equipment,Good,817.0505562818903,Accepted
+26,male,Skilled,own,little,moderate,1424,12,domestic appliances,Good,830.1399331725722,Accepted
+55,male,Skilled,own,rich,little,1413,12,car,Good,817.7105351161947,Accepted
+33,male,Skilled,own,little,little,3074,9,radio/TV,Good,575.2831496219644,Accepted
+45,female,Unskilled-Resident,own,little,little,3835,36,radio/TV,Good,503.53838303433747,Accepted
+50,male,Skilled,own,little,little,5293,27,business,Good,480.9882462182613,Accepted
+66,male,Highly Skilled,own,little,rich,1908,30,business,Good,749.5765674441153,Accepted
+51,male,Skilled,own,little,little,3342,36,radio/TV,Good,500.69062215687734,Accepted
+39,female,Unskilled-Resident,own,little,moderate,932,6,education,Good,832.0347514336153,Accepted
+31,male,Skilled,own,little,little,3104,18,business,Good,521.8889742267676,Accepted
+23,male,Skilled,own,little,rich,3913,36,radio/TV,Good,555.6165908796484,Accepted
+24,male,Unskilled-Resident,rent,little,little,3021,24,furniture/equipment,Good,533.9885740712172,Accepted
+64,female,Skilled,own,little,little,1364,10,car,Good,802.4911837725883,Accepted
+26,male,Unskilled-Resident,own,little,moderate,625,12,radio/TV,Good,832.4351757244261,Accepted
+23,female,Skilled,rent,little,little,1200,12,education,Good,826.3238046430974,Accepted
+30,male,Skilled,own,little,little,707,12,radio/TV,Good,822.7353458084773,Accepted
+32,male,Skilled,own,little,little,2978,24,business,Good,513.5455001754409,Accepted
+30,male,Skilled,own,little,little,4657,15,car,Good,540.900537797541,Accepted
+27,male,Skilled,own,little,little,2613,36,repairs,Good,513.7799990475594,Accepted
+22,male,Skilled,own,little,little,1478,9,radio/TV,Good,844.571609998691,Accepted
+22,male,Skilled,free,little,little,3149,24,furniture/equipment,Good,540.6524634781521,Accepted
+26,male,Skilled,own,little,rich,4210,36,radio/TV,Good,555.6165908796484,Accepted
+51,male,Unskilled-Resident,free,quite rich,little,2507,9,car,Good,570.2583389296817,Accepted
+35,male,Skilled,own,moderate,little,2141,12,radio/TV,Good,822.7353458084773,Accepted
+25,male,Unskilled-Resident,own,little,moderate,866,18,radio/TV,Good,810.8798105421102,Accepted
+42,male,Unskilled-Resident,own,little,little,1544,4,radio/TV,Good,831.482233108009,Accepted
+30,male,Highly Skilled,own,little,little,1823,24,radio/TV,Good,759.999605507822,Accepted
+61,male,Unskilled-Resident,rent,moderate,moderate,2767,21,business,Good,511.8355378450995,Accepted
+35,female,Skilled,own,little,little,1291,12,radio/TV,Good,825.5831066859374,Accepted
+39,male,Skilled,own,little,little,2522,30,radio/TV,Good,500.69062215687734,Accepted
+29,female,Skilled,own,little,little,915,24,car,Good,775.981891513679,Accepted
+51,male,Skilled,own,little,little,1595,6,radio/TV,Good,831.482233108009,Accepted
+24,male,Skilled,free,little,little,4605,48,car,Good,467.850127727222,Accepted
+27,female,Skilled,own,little,little,1185,12,business,Good,815.5805606632703,Accepted
+35,female,Unskilled-Resident,own,quite rich,little,3447,12,education,Good,581.7663458943722,Accepted
+25,male,Skilled,own,little,little,1258,24,business,Good,782.8339605521677,Accepted
+52,male,Skilled,own,little,little,717,12,radio/TV,Good,819.3457988337442,Accepted
+35,male,Skilled,rent,moderate,little,1204,6,car,Good,808.5055147371912,Accepted
+26,male,Skilled,own,little,rich,1925,24,furniture/equipment,Good,842.0776857710188,Accepted
+22,female,Skilled,rent,little,little,433,18,radio/TV,Good,807.0636820126355,Accepted
+39,female,Unskilled-Resident,own,rich,little,666,6,car,Good,832.6947302679197,Accepted
+46,female,Unskilled-Resident,own,little,rich,2251,12,furniture/equipment,Good,861.7349089914394,Accepted
+24,female,Skilled,own,little,moderate,2150,30,car,Good,756.5140144471812,Accepted
+35,male,Skilled,own,moderate,little,4151,24,furniture/equipment,Good,530.9526335622031,Accepted
+24,male,Skilled,own,little,moderate,2030,9,furniture/equipment,Good,842.2763674468371,Accepted
+35,male,Unskilled-Resident,own,little,little,2684,24,radio/TV,Good,533.2478761140569,Accepted
+29,male,Skilled,free,little,little,2149,12,radio/TV,Good,822.7353458084773,Accepted
+23,female,Skilled,own,moderate,little,3812,15,car,Good,553.4481285909501,Accepted
+57,female,Unskilled-Resident,own,moderate,little,1154,11,radio/TV,Good,822.1935597112043,Accepted
+27,male,Skilled,own,little,little,1657,12,furniture/equipment,Good,830.1399331725722,Accepted
+55,female,Skilled,own,little,little,1603,24,radio/TV,Good,792.2947204775619,Accepted
+36,male,Highly Skilled,free,little,little,5302,18,car,Good,489.0520731597548,Accepted
+57,female,Unskilled-Resident,free,little,little,2748,12,education,Good,560.3096866985726,Accepted
+32,male,Unskilled-Resident,own,little,little,1231,10,car,Good,803.0329698698613,Accepted
+37,male,Skilled,own,little,moderate,802,15,radio/TV,Good,820.191544196935,Accepted
+38,female,Skilled,own,little,little,1533,24,radio/TV,Good,795.684267452295,Accepted
+25,male,Skilled,own,little,little,999,24,radio/TV,Good,802.5363364907837,Accepted
+32,male,Skilled,own,little,little,2662,18,car,Good,521.8889742267676,Accepted
+37,female,Skilled,rent,quite rich,little,1402,12,furniture/equipment,Good,834.6910869482151,Accepted
+32,male,Skilled,own,little,little,2697,9,radio/TV,Good,575.2831496219644,Accepted
+26,female,Skilled,own,little,little,2404,18,radio/TV,Good,554.1389409587927,Accepted
+49,male,Unskilled-Resident,own,little,little,1262,12,furniture/equipment,Good,817.0505562818903,Accepted
+32,female,Skilled,own,little,little,4611,6,furniture/equipment,Good,575.8356679475706,Accepted
+29,male,Highly Skilled,rent,moderate,little,1901,24,radio/TV,Good,753.3357161008871,Accepted
+23,male,Skilled,rent,rich,little,3368,15,car,Good,562.0035905276216,Accepted
+50,male,Skilled,own,little,little,1574,12,furniture/equipment,Good,817.0505562818903,Accepted
+49,male,Unskilled-Resident,own,little,rich,1445,18,radio/TV,Good,839.6270254835173,Accepted
+63,male,Skilled,own,little,little,1520,15,furniture/equipment,Good,814.506754670348,Accepted
+37,male,Skilled,own,moderate,moderate,3878,24,car,Good,513.5455001754409,Accepted
+49,female,Skilled,own,little,moderate,1092,12,radio/TV,Good,822.1935597112043,Accepted
+48,male,Skilled,own,little,little,1024,24,radio/TV,Good,789.4469596001018,Accepted
+26,male,Skilled,own,little,little,1076,12,business,Good,812.7327997858101,Accepted
+56,male,Skilled,free,little,rich,4796,42,car,Good,496.5973426686289,Accepted
+20,female,Skilled,rent,little,little,4675,12,car,Good,549.3280407955576,Accepted
+45,male,Unskilled-Resident,own,little,little,1287,10,car,Good,799.6434228951282,Accepted
+43,male,Skilled,own,little,little,2515,18,furniture/equipment,Good,535.9065606387966,Accepted
+32,male,Skilled,own,rich,moderate,2745,21,furniture/equipment,Good,557.3632198345962,Accepted
+54,female,Unskilled-Non Resident,own,little,little,672,6,car,Good,814.6276180468532,Accepted
+42,female,Skilled,own,little,moderate,3804,36,radio/TV,Good,503.53838303433747,Accepted
+37,male,Unskilled-Resident,own,little,rich,1344,24,car,Good,814.9707224683078,Accepted
+49,male,Skilled,own,little,little,1038,10,car,Good,799.6434228951282,Accepted
+33,male,Skilled,own,rich,little,1543,6,furniture/equipment,Good,850.6436497519547,Accepted
+24,female,Unskilled-Resident,rent,little,little,4811,30,car,Good,490.26149457946855,Accepted
+33,male,Unskilled-Resident,own,moderate,little,727,12,radio/TV,Good,822.7353458084773,Accepted
+24,female,Skilled,own,little,moderate,1237,8,furniture/equipment,Good,845.1241283242972,Accepted
+22,male,Unskilled-Resident,rent,little,moderate,276,9,car,Good,818.2053446531401,Accepted
+26,female,Skilled,own,little,rich,3749,24,furniture/equipment,Good,585.3368161877012,Accepted
+25,male,Unskilled-Resident,own,little,moderate,685,12,car,Good,812.7327997858101,Accepted
+29,male,Unskilled-Resident,own,little,rich,1494,4,car,Good,857.0059959762151,Accepted
+31,male,Skilled,own,little,little,2746,36,furniture/equipment,Good,501.78492657975653,Accepted
+38,male,Unskilled-Resident,own,little,little,708,12,furniture/equipment,Good,820.4401032566234,Accepted
+48,female,Unskilled-Resident,own,little,moderate,4351,24,furniture/equipment,Good,530.4108474649302,Accepted
+32,male,Skilled,own,little,little,701,12,education,Good,820.4401032566234,Accepted
+27,female,Unskilled-Resident,own,little,little,3643,15,furniture/equipment,Good,570.8552619777123,Accepted
+32,male,Skilled,own,little,little,1938,24,radio/TV,Good,792.8365065748349,Accepted
+34,male,Highly Skilled,free,little,little,2910,24,car,Good,480.7085991084282,Accepted
+28,male,Skilled,own,rich,little,2659,18,furniture/equipment,Good,567.0630497505451,Accepted
+36,female,Skilled,own,little,little,1028,18,car,Good,784.3253655650055,Accepted
+39,male,Unskilled-Resident,own,little,little,3398,8,car,Good,552.1912267086152,Accepted
+34,female,Skilled,own,rich,little,1525,24,car,Good,794.0490037347455,Accepted
+31,male,Skilled,own,little,rich,4473,36,radio/TV,Good,545.9167609636994,Accepted
+28,male,Skilled,own,little,moderate,1068,6,radio/TV,Good,844.571609998691,Accepted
+30,female,Skilled,own,moderate,little,1864,18,education,Good,801.7324989517676,Accepted
+23,male,Skilled,rent,little,little,4110,24,furniture/equipment,Good,533.9885740712172,Accepted
+44,male,Highly Skilled,rent,little,little,3384,6,furniture/equipment,Good,530.0975696214297,Accepted
+23,female,Unskilled-Resident,own,little,moderate,2101,13,radio/TV,Good,832.7391349903439,Accepted
+24,female,Skilled,rent,little,little,1275,15,domestic appliances,Good,823.7800030315551,Accepted
+28,male,Skilled,own,little,little,4169,24,furniture/equipment,Good,540.6524634781521,Accepted
+31,male,Unskilled-Resident,own,little,moderate,1521,10,furniture/equipment,Good,820.4401032566234,Accepted
+26,female,Unskilled-Resident,rent,little,little,3599,21,furniture/equipment,Good,545.1798090000038,Accepted
+25,male,Skilled,rent,quite rich,moderate,3213,18,radio/TV,Good,562.6944028954641,Accepted
+37,male,Unskilled-Resident,own,little,rich,3949,10,car,Good,585.2809312411724,Accepted
+43,female,Unskilled-Resident,own,little,little,1459,15,radio/TV,Good,819.649758099662,Accepted
+23,male,Skilled,own,little,moderate,882,13,radio/TV,Good,829.8913741128838,Accepted
+23,female,Unskilled-Non Resident,rent,quite rich,moderate,3758,24,radio/TV,Good,557.1986897215977,Accepted
+34,male,Unskilled-Resident,own,moderate,little,1743,6,business,Good,815.1694041441261,Accepted
+32,male,Skilled,free,rich,moderate,1136,9,education,Good,850.6436497519547,Accepted
+23,female,Skilled,rent,little,little,1236,9,domestic appliances,Good,838.4602389173623,Accepted
+29,female,Skilled,own,little,moderate,959,9,furniture/equipment,Good,835.4242984083484,Accepted
+38,male,Highly Skilled,own,little,little,3229,18,car,Good,489.0520731597548,Accepted
+46,male,Skilled,free,quite rich,little,727,10,education,Good,835.1176685029568,Accepted
+23,male,Unskilled-Resident,own,little,moderate,1246,24,car,Good,782.8339605521677,Accepted
+49,male,Skilled,own,little,little,2331,12,radio/TV,Good,559.7571683729664,Accepted
+26,male,Highly Skilled,own,little,little,4463,36,radio/TV,Good,480.94309798054667,Accepted
+28,male,Skilled,own,little,little,776,12,radio/TV,Good,832.4351757244261,Accepted
+23,female,Skilled,rent,little,little,2406,30,furniture/equipment,Good,507.6686279662307,Accepted
+61,male,Skilled,free,little,moderate,1239,18,education,Good,795.4951910995744,Accepted
+37,male,Highly Skilled,own,little,rich,3399,12,radio/TV,Good,572.1464061127757,Accepted
+36,female,Skilled,own,little,rich,2247,12,car,Good,847.7173225794104,Accepted
+21,male,Skilled,rent,little,little,1766,6,furniture/equipment,Good,835.6124780399022,Accepted
+25,male,Unskilled-Non Resident,own,little,little,2473,18,furniture/equipment,Good,548.9959375294786,Accepted
+36,male,Skilled,own,little,little,1542,12,business,Good,803.0329698698613,Accepted
+27,male,Skilled,own,little,little,3850,18,car,Good,531.5888041427165,Accepted
+22,female,Skilled,rent,little,little,3650,18,furniture/equipment,Good,545.1798090000038,Accepted
+42,male,Skilled,own,little,little,3446,36,furniture/equipment,Good,498.39537960502344,Accepted
+40,female,Skilled,rent,little,moderate,3001,18,furniture/equipment,Good,532.0904321093218,Accepted
+36,male,Skilled,own,little,little,3079,36,car,Good,484.3777931929944,Accepted
+23,female,Skilled,rent,little,little,2146,10,furniture/equipment,Good,826.3238046430974,Accepted
+34,male,Skilled,own,little,little,2320,18,radio/TV,Good,541.5913501653836,Accepted
+36,male,Skilled,free,little,little,846,7,radio/TV,Good,834.8717800827421,Accepted
+52,female,Unskilled-Resident,own,moderate,little,362,6,car,Good,814.6276180468532,Accepted
+39,male,Skilled,own,little,little,2212,20,furniture/equipment,Good,795.4951910995744,Accepted
+25,female,Skilled,rent,little,little,1283,22,car,Good,779.0178320226929,Accepted
+26,male,Skilled,own,little,rich,1330,12,car,Good,854.5693916178991,Accepted
+26,male,Unskilled-Resident,own,moderate,little,4272,30,business,Good,494.0776231089433,Accepted
+25,female,Skilled,own,little,little,2238,18,radio/TV,Good,813.7275714195704,Accepted
+21,female,Skilled,rent,little,little,1126,18,radio/TV,Good,807.0636820126355,Accepted
+27,male,Skilled,own,quite rich,moderate,2326,15,business,Good,568.6674799345565,Accepted
+27,female,Skilled,own,little,little,1449,9,business,Good,827.7169949375351,Accepted
+30,male,Highly Skilled,own,little,little,1820,18,car,Good,748.6407036205326,Accepted
+19,female,Unskilled-Resident,rent,rich,moderate,983,12,furniture/equipment,Good,844.390916864164,Accepted
+39,male,Highly Skilled,free,little,little,3249,36,car,Good,448.15134515124845,Accepted
+31,female,Skilled,own,little,little,1957,6,radio/TV,Good,837.7195409602023,Accepted
+31,male,Highly Skilled,own,little,little,2406,9,furniture/equipment,Good,540.1510060030978,Accepted
+55,female,Highly Skilled,free,little,little,2578,12,furniture/equipment,Good,527.4727856315598,Accepted
+46,male,Skilled,own,little,little,2348,36,furniture/equipment,Good,498.39537960502344,Accepted
+46,male,Skilled,rent,little,moderate,1223,12,car,Good,792.9795334881933,Accepted
+43,female,Unskilled-Resident,own,rich,little,1516,24,radio/TV,Good,810.3618326986284,Accepted
+39,male,Skilled,own,little,little,1473,18,radio/TV,Good,797.7904336514283,Accepted
+28,male,Skilled,own,little,moderate,1887,18,business,Good,791.1774346034942,Accepted
+27,male,Unskilled-Resident,own,little,little,802,14,car,Good,810.1889981742678,Accepted
+43,male,Skilled,own,little,moderate,2899,18,car,Good,518.4994272520345,Accepted
+22,male,Skilled,own,little,moderate,2039,24,radio/TV,Good,802.5363364907837,Accepted
+43,male,Skilled,own,little,little,2197,24,car,Good,769.7445836614858,Accepted
+27,male,Skilled,own,little,little,1053,15,radio/TV,Good,829.8913741128838,Accepted
+26,male,Highly Skilled,own,quite rich,little,3235,24,radio/TV,Good,528.1779171840597,Accepted
+28,male,Skilled,own,quite rich,rich,939,12,car,Good,872.6365038389658,Accepted
+20,female,Skilled,own,little,moderate,1967,24,radio/TV,Good,805.3840973682438,Accepted
+42,male,Highly Skilled,own,little,little,2292,12,business,Good,766.8065218281154,Accepted
+40,male,Unskilled-Resident,rent,quite rich,little,1597,10,car,Good,811.0466457092598,Accepted
+35,female,Skilled,own,little,little,1381,24,car,Good,775.981891513679,Accepted
+33,male,Unskilled-Resident,own,little,little,2579,12,car,Good,543.4443394090835,Accepted
+31,female,Highly Skilled,own,quite rich,little,2782,21,car,Good,509.96694625828144,Accepted
+33,female,Skilled,own,little,moderate,1042,18,car,Good,784.3253655650055,Accepted
+20,female,Skilled,rent,rich,little,3186,15,car,Good,564.8513514050817,Accepted
+30,male,Skilled,own,little,moderate,2028,12,car,Good,803.0329698698613,Accepted
+47,male,Unskilled-Resident,own,little,moderate,958,12,car,Good,799.6434228951282,Accepted
+34,male,Highly Skilled,own,moderate,little,1591,21,furniture/equipment,Good,766.0478370072947,Accepted
+25,female,Skilled,own,little,moderate,2762,12,furniture/equipment,Good,573.3990635892546,Accepted
+21,male,Skilled,rent,little,moderate,2779,18,car,Good,524.9249147357816,Accepted
+29,male,Skilled,own,little,little,2743,28,radio/TV,Good,504.08016913161043,Accepted
+46,male,Skilled,own,rich,little,1149,18,radio/TV,Good,815.8575458724948,Accepted
+20,male,Skilled,own,little,little,1313,9,furniture/equipment,Good,842.2763674468371,Accepted
+55,female,Unskilled-Non Resident,free,little,little,1190,18,repairs,Good,800.6381945288884,Accepted
+74,male,Unskilled-Resident,own,little,little,3448,5,business,Good,552.1912267086152,Accepted
+36,male,Highly Skilled,free,little,little,1872,6,furniture/equipment,Good,799.7396364638754,Accepted
+33,male,Skilled,own,little,little,2058,24,repairs,Good,792.8365065748349,Accepted
+25,male,Skilled,own,little,little,2136,9,furniture/equipment,Good,842.2763674468371,Accepted
+25,male,Skilled,own,little,moderate,1484,12,radio/TV,Good,832.4351757244261,Accepted
+23,male,Unskilled-Resident,rent,quite rich,little,660,6,repairs,Good,855.9748328128226,Accepted
+37,female,Skilled,own,rich,little,1287,24,car,Good,794.0490037347455,Accepted
+26,female,Unskilled-Non Resident,own,little,rich,609,12,business,Good,857.4171524953592,Accepted
+39,male,Highly Skilled,own,little,little,1884,12,car,Good,766.8065218281154,Accepted
+30,female,Skilled,own,little,little,1620,12,furniture/equipment,Good,823.2878641340835,Accepted
+29,male,Skilled,own,little,moderate,2629,20,vacation/others,Good,541.5913501653836,Accepted
+41,male,Unskilled-Resident,own,little,little,719,12,education,Good,817.0505562818903,Accepted
+41,female,Unskilled-Resident,rent,little,little,1244,9,education,Good,825.3708620266804,Accepted
+34,female,Skilled,own,little,little,1842,36,car,Good,746.8141845312324,Accepted
+35,male,Skilled,own,little,moderate,2576,7,radio/TV,Good,575.2831496219644,Accepted
+55,female,Highly Skilled,own,little,rich,1424,12,furniture/equipment,Good,828.8980079244266,Accepted
+61,male,Skilled,own,rich,moderate,1512,15,repairs,Good,834.8691094432684,Accepted
+29,female,Skilled,own,little,little,518,6,radio/TV,Good,837.7195409602023,Accepted
+34,male,Skilled,own,little,little,2759,12,furniture/equipment,Good,560.8514727958456,Accepted
+35,male,Highly Skilled,own,little,little,2670,24,car,Good,480.7085991084282,Accepted
+31,male,Skilled,own,little,little,4817,24,car,Good,513.5455001754409,Accepted
+29,female,Highly Skilled,own,little,little,2679,24,car,Good,483.5563599858883,Accepted
+36,male,Skilled,rent,little,little,3905,11,car,Good,536.7804500021485,Accepted
+35,male,Skilled,free,little,little,3386,12,car,Good,543.4443394090835,Accepted
+27,female,Skilled,own,little,little,343,6,domestic appliances,Good,845.1241283242972,Accepted
+32,male,Skilled,own,little,little,4594,18,radio/TV,Good,541.5913501653836,Accepted
+37,male,Skilled,own,little,little,3620,36,furniture/equipment,Good,501.78492657975653,Accepted
+36,male,Skilled,own,little,little,1721,15,car,Good,800.489168258319,Accepted
+34,female,Highly Skilled,rent,little,moderate,3017,12,furniture/equipment,Good,524.1984431993579,Accepted
+38,male,Skilled,own,little,moderate,754,12,education,Good,820.4401032566234,Accepted
+34,male,Skilled,own,little,little,1950,18,business,Good,781.4776046875454,Accepted
+63,male,Skilled,own,little,little,2924,24,car,Good,510.1559532007078,Accepted
+29,female,Unskilled-Resident,rent,little,little,1659,24,radio/TV,Good,789.0203780453601,Accepted
+26,female,Skilled,own,little,little,2764,33,business,Good,496.92538398640346,Accepted
+35,male,Unskilled-Resident,own,little,little,4679,24,car,Good,513.5455001754409,Accepted
+22,male,Skilled,rent,moderate,moderate,3092,24,radio/TV,Good,536.2838166230711,Accepted
+23,female,Skilled,own,little,little,448,6,education,Good,845.1241283242972,Accepted
+28,male,Unskilled-Resident,own,little,little,654,9,car,Good,824.869234060075,Accepted
+36,male,Highly Skilled,own,little,little,1238,6,education,Good,799.7396364638754,Accepted
+33,male,Skilled,own,little,moderate,1245,18,radio/TV,Good,801.1799806261614,Accepted
+26,female,Skilled,rent,little,little,3114,18,furniture/equipment,Good,545.1798090000038,Accepted
+25,male,Skilled,own,little,rich,5152,24,radio/TV,Good,584.784297862095,Accepted
+39,male,Unskilled-Resident,own,moderate,moderate,1037,12,business,Good,799.6434228951282,Accepted
+44,male,Skilled,own,little,little,1478,15,furniture/equipment,Good,814.506754670348,Accepted
+23,female,Unskilled-Resident,own,little,moderate,3573,12,radio/TV,Good,575.6943061411085,Accepted
+26,male,Skilled,own,little,moderate,1201,24,car,Good,782.8339605521677,Accepted
+57,female,Skilled,rent,rich,little,3622,30,furniture/equipment,Good,512.6463632966152,Accepted
+30,female,Skilled,own,rich,little,960,15,furniture/equipment,Good,838.8111747436077,Accepted
+44,male,Skilled,own,quite rich,little,1163,12,car,Good,817.7105351161947,Accepted
+47,male,Highly Skilled,own,little,moderate,1209,6,car,Good,778.9429561023802,Accepted
+52,male,Skilled,own,little,little,3077,12,radio/TV,Good,559.7571683729664,Accepted
+62,female,Skilled,free,little,little,3757,24,car,Good,513.003714078168,Accepted
+35,male,Unskilled-Resident,rent,moderate,little,1418,10,car,Good,796.3690804629264,Accepted
+26,male,Skilled,rent,little,little,3518,6,car,Good,558.6167141923623,Accepted
+26,male,Skilled,own,little,little,1934,12,radio/TV,Good,832.4351757244261,Accepted
+27,female,Skilled,own,moderate,little,1237,6,radio/TV,Good,847.4193708761511,Accepted
+38,male,Skilled,own,little,moderate,368,6,radio/TV,Good,834.8717800827421,Accepted
+39,male,Unskilled-Resident,rent,little,little,2122,12,car,Good,792.9795334881933,Accepted
+20,male,Skilled,own,little,little,2996,24,furniture/equipment,Good,540.6524634781521,Accepted
+40,male,Skilled,own,little,little,1585,24,furniture/equipment,Good,787.1517170482479,Accepted
+32,male,Unskilled-Resident,own,little,moderate,1301,18,radio/TV,Good,801.1799806261614,Accepted
+28,male,Skilled,own,moderate,rich,1323,6,car,Good,866.705825892164,Accepted
+27,female,Skilled,own,little,little,3123,24,car,Good,526.09309096885,Accepted
+49,male,Skilled,own,moderate,rich,1126,9,radio/TV,Good,873.318824940098,Accepted
+38,male,Skilled,own,moderate,moderate,1216,24,radio/TV,Good,792.8365065748349,Accepted
+24,female,Skilled,rent,little,little,1207,24,car,Good,779.0178320226929,Accepted
+27,male,Unskilled-Resident,own,little,little,1309,10,car,Good,812.7327997858101,Accepted
+36,male,Skilled,own,quite rich,rich,2360,15,car,Good,600.8042418506967,Accepted
+28,male,Skilled,own,little,little,1413,24,radio/TV,Good,802.5363364907837,Accepted
+26,male,Skilled,own,little,little,759,12,car,Good,812.7327997858101,Accepted
+26,male,Skilled,rent,little,rich,2687,15,business,Good,585.773070138644,Accepted
+20,male,Skilled,rent,little,moderate,585,12,radio/TV,Good,825.7712863174912,Accepted
+54,male,Skilled,own,little,little,2255,24,car,Good,769.7445836614858,Accepted
+37,female,Skilled,own,little,little,609,6,car,Good,818.0171650215863,Accepted
+40,male,Unskilled-Resident,own,little,little,1361,6,car,Good,811.779857169393,Accepted
+43,male,Skilled,own,moderate,little,1203,6,car,Good,811.779857169393,Accepted
+36,male,Skilled,free,little,little,700,6,radio/TV,Good,834.8717800827421,Accepted
+24,female,Skilled,own,little,little,3190,18,radio/TV,Good,554.1389409587927,Accepted
+23,female,Skilled,own,moderate,little,3488,24,car,Good,526.09309096885,Accepted
+26,female,Unskilled-Resident,own,little,moderate,1113,18,radio/TV,Good,813.7275714195704,Accepted
+31,female,Skilled,own,moderate,little,1532,15,education,Good,820.7440625225412,Accepted
+42,male,Unskilled-Resident,own,little,little,1503,4,radio/TV,Good,831.482233108009,Accepted
+31,male,Skilled,rent,little,little,2302,36,radio/TV,Good,757.0049101854534,Accepted
+41,male,Unskilled-Resident,own,little,little,662,6,car,Good,811.779857169393,Accepted
+32,male,Skilled,own,little,moderate,2273,36,education,Good,761.3735570405344,Accepted
+28,female,Skilled,rent,moderate,moderate,2631,15,car,Good,546.7842391840152,Accepted
+41,male,Skilled,rent,little,little,1503,12,car,Good,792.9795334881933,Accepted
+26,male,Skilled,own,moderate,little,1311,24,radio/TV,Good,802.5363364907837,Accepted
+25,male,Skilled,own,little,little,3105,24,radio/TV,Good,542.947706030006,Accepted
+33,male,Skilled,rent,little,rich,2319,21,education,Good,834.0574404994616,Accepted
+75,female,Highly Skilled,own,little,little,1374,6,car,Good,781.7907169798403,Accepted
+37,female,Skilled,own,little,moderate,3612,18,furniture/equipment,Good,542.1438684909898,Accepted
+45,female,Unskilled-Resident,own,little,rich,3049,18,furniture/equipment,Good,580.5909133483457,Accepted
+23,male,Skilled,rent,little,moderate,1534,12,radio/TV,Good,825.7712863174912,Accepted
+60,male,Skilled,free,little,little,2032,24,car,Good,769.7445836614858,Accepted
+34,male,Unskilled-Resident,own,little,rich,2864,18,furniture/equipment,Good,581.1326994456186,Accepted
+61,male,Unskilled-Resident,own,little,little,1255,12,car,Good,799.6434228951282,Accepted
+43,male,Skilled,free,little,little,1333,24,car,Good,769.7445836614858,Accepted
+37,female,Skilled,own,little,little,2022,24,car,Good,775.981891513679,Accepted
+32,male,Skilled,own,little,little,1552,24,radio/TV,Good,792.8365065748349,Accepted
+24,female,Unskilled-Resident,own,little,little,626,12,radio/TV,Good,835.2829366018863,Accepted
+23,female,Skilled,own,little,little,996,12,repairs,Good,835.2829366018863,Accepted
+45,male,Unskilled-Resident,own,quite rich,little,1750,6,radio/TV,Good,849.5493453290755,Accepted
+27,male,Skilled,own,moderate,moderate,1995,12,car,Good,812.7327997858101,Accepted
+67,female,Highly Skilled,own,little,moderate,1199,9,education,Good,799.1978503666024,Accepted
+22,male,Skilled,own,little,moderate,1331,12,radio/TV,Good,832.4351757244261,Accepted
+28,female,Skilled,own,moderate,moderate,2278,18,car,Good,794.0251954809544,Accepted
+29,female,Skilled,own,little,little,5003,21,car,Good,524.7367351042277,Accepted
+27,male,Skilled,own,little,little,3552,24,furniture/equipment,Good,540.6524634781521,Accepted
+31,male,Unskilled-Resident,own,little,moderate,1928,18,furniture/equipment,Good,798.8847380743075,Accepted
+49,male,Skilled,free,little,little,2964,24,car,Good,510.1559532007078,Accepted
+24,male,Unskilled-Resident,rent,little,little,1546,24,radio/TV,Good,795.8724470838488,Accepted
+29,female,Skilled,own,little,rich,683,6,radio/TV,Good,879.5561327922912,Accepted
+37,male,Highly Skilled,own,little,moderate,4712,24,business,Good,480.7085991084282,Accepted
+23,female,Skilled,rent,moderate,moderate,1553,24,radio/TV,Good,798.7202079613089,Accepted
+36,male,Skilled,own,little,little,1372,12,car,Good,803.0329698698613,Accepted
+34,male,Skilled,own,rich,little,2578,24,radio/TV,Good,551.3149883351234,Accepted
+23,female,Unskilled-Resident,rent,little,little,3234,24,furniture/equipment,Good,536.8363349486773,Accepted
+22,female,Unskilled-Resident,own,little,little,806,15,business,Good,813.0367590517279,Accepted
+27,male,Unskilled-Resident,own,little,moderate,1082,9,radio/TV,Good,844.571609998691,Accepted
+24,female,Skilled,own,little,little,2788,15,furniture/equipment,Good,570.8552619777123,Accepted
+27,female,Skilled,own,little,moderate,2930,12,radio/TV,Good,575.6943061411085,Accepted
+33,female,Skilled,own,little,little,1927,24,education,Good,793.3890249004411,Accepted
+27,male,Unskilled-Resident,own,little,little,937,24,education,Good,800.2410939389298,Accepted
+30,male,Skilled,own,little,moderate,1056,18,car,Good,781.4776046875454,Accepted
+49,male,Unskilled-Resident,own,little,moderate,3124,12,car,Good,540.0547924343504,Accepted
+26,female,Skilled,rent,little,little,1388,9,furniture/equipment,Good,838.4602389173623,Accepted
+33,male,Unskilled-Resident,rent,little,moderate,2384,36,repairs,Good,497.4162797246755,Accepted
+52,female,Highly Skilled,free,little,little,2133,12,car,Good,769.6542827055755,Accepted
+20,female,Skilled,rent,little,little,2039,18,furniture/equipment,Good,804.7684394607816,Accepted
+36,male,Skilled,rent,little,little,2799,9,car,Good,548.9168842764134,Accepted
+21,male,Unskilled-Resident,own,little,little,1289,12,furniture/equipment,Good,830.1399331725722,Accepted
+47,male,Unskilled-Resident,own,little,little,1217,18,domestic appliances,Good,795.4951910995744,Accepted
+60,male,Skilled,own,little,little,2246,12,furniture/equipment,Good,817.0505562818903,Accepted
+58,female,Unskilled-Resident,own,little,little,385,12,radio/TV,Good,822.1935597112043,Accepted
+42,female,Skilled,rent,little,moderate,1965,24,car,Good,765.928455132011,Accepted
+36,female,Unskilled-Resident,own,rich,little,1572,21,business,Good,802.392477786072,Accepted
+20,female,Unskilled-Resident,rent,little,moderate,2718,24,car,Good,519.4292015619151,Accepted
+40,male,Highly Skilled,own,little,little,1358,24,vacation/others,Good,756.6100585330889,Accepted
+32,female,Unskilled-Resident,own,moderate,moderate,931,6,car,Good,818.0171650215863,Accepted
+23,female,Skilled,rent,little,little,1442,24,car,Good,779.0178320226929,Accepted
+36,male,Unskilled-Resident,own,little,moderate,4241,24,business,Good,513.5455001754409,Accepted
+31,male,Skilled,own,little,little,2775,18,car,Good,521.8889742267676,Accepted
+32,male,Skilled,free,little,little,3863,24,business,Good,513.5455001754409,Accepted
+45,female,Skilled,own,little,moderate,2329,7,radio/TV,Good,574.7413635246915,Accepted
+30,female,Skilled,own,little,moderate,918,9,furniture/equipment,Good,835.4242984083484,Accepted
+34,female,Unskilled-Resident,free,little,moderate,1837,24,education,Good,793.3890249004411,Accepted
+28,female,Highly Skilled,own,little,little,3349,36,furniture/equipment,Good,481.4956163061529,Accepted
+23,female,Skilled,own,little,rich,1275,10,furniture/equipment,Good,874.8242858821213,Accepted
+22,male,Skilled,own,quite rich,little,2828,24,furniture/equipment,Good,558.7195756992186,Accepted
+50,female,Skilled,free,moderate,moderate,2671,36,radio/TV,Good,503.53838303433747,Accepted
+33,male,Skilled,own,little,little,2051,18,radio/TV,Good,801.1799806261614,Accepted
+45,male,Skilled,free,little,little,1300,15,car,Good,797.0996212835859,Accepted
+22,female,Skilled,own,moderate,little,741,12,domestic appliances,Good,832.9876940500324,Accepted
+48,female,Unskilled-Resident,free,moderate,rich,1240,10,car,Good,844.3277756046773,Accepted
+29,female,Skilled,own,rich,little,3357,21,radio/TV,Good,562.5062232639102,Accepted
+22,female,Skilled,rent,little,little,3632,24,car,Good,519.4292015619151,Accepted
+22,female,Skilled,own,little,little,1808,18,furniture/equipment,Good,811.4323288677165,Accepted
+37,male,Skilled,rent,little,little,3676,6,car,Good,548.9168842764134,Accepted
+21,female,Skilled,rent,moderate,moderate,3441,30,furniture/equipment,Good,507.6686279662307,Accepted
+49,male,Unskilled-Resident,own,little,little,640,12,car,Good,799.6434228951282,Accepted
+27,male,Skilled,own,little,moderate,3652,21,business,Good,531.5888041427165,Accepted
+32,male,Skilled,own,little,little,1530,18,car,Good,781.4776046875454,Accepted
+22,female,Skilled,rent,little,little,1858,12,furniture/equipment,Good,826.3238046430974,Accepted
+65,male,Skilled,free,little,little,2600,18,radio/TV,Good,538.2018031906505,Accepted
+35,male,Skilled,own,little,little,1979,15,radio/TV,Good,820.191544196935,Accepted
+41,male,Skilled,own,little,rich,2116,6,furniture/equipment,Good,871.0235823882441,Accepted
+29,male,Skilled,own,moderate,moderate,1437,9,car,Good,815.1694041441261,Accepted
+36,male,Skilled,own,quite rich,little,4042,42,furniture/equipment,Good,493.62454341910177,Accepted
+64,male,Unskilled-Resident,own,little,little,3832,9,education,Good,569.5983600953774,Accepted
+28,female,Skilled,own,little,little,3660,24,radio/TV,Good,545.7954669074661,Accepted
+44,male,Skilled,own,little,little,1553,18,furniture/equipment,Good,795.4951910995744,Accepted
+23,male,Skilled,own,little,moderate,1444,15,radio/TV,Good,829.8913741128838,Accepted
+19,female,Skilled,rent,little,little,1980,9,furniture/equipment,Good,838.4602389173623,Accepted
+25,female,Unskilled-Resident,own,little,moderate,1355,24,car,Good,785.6817214296278,Accepted
+47,male,Skilled,own,little,little,1393,12,education,Good,817.0505562818903,Accepted
+28,female,Skilled,own,quite rich,little,1376,24,radio/TV,Good,823.4512095893103,Accepted
+34,female,Skilled,own,little,little,1493,12,radio/TV,Good,825.5831066859374,Accepted
+26,male,Skilled,own,little,little,4370,42,radio/TV,Good,487.55250366583806,Accepted
+27,female,Unskilled-Non Resident,own,little,little,750,18,education,Good,811.4323288677165,Accepted
+38,male,Unskilled-Resident,own,little,moderate,1308,15,repairs,Good,820.191544196935,Accepted
+40,male,Highly Skilled,own,moderate,little,4623,15,education,Good,522.0812231425573,Accepted
+33,male,Skilled,own,little,little,1851,24,radio/TV,Good,792.8365065748349,Accepted
+32,male,Highly Skilled,own,little,little,1880,18,radio/TV,Good,768.3430795591486,Accepted
+32,male,Skilled,own,little,little,4583,30,furniture/equipment,Good,501.78492657975653,Accepted
+26,female,Skilled,own,quite rich,little,1386,12,car,Good,833.6476728843368,Accepted
+38,male,Skilled,free,little,rich,947,24,car,Good,814.9707224683078,Accepted
+40,male,Unskilled-Resident,rent,little,little,684,12,education,Good,810.3866668749554,Accepted
+37,male,Unskilled-Resident,own,little,moderate,1922,12,furniture/equipment,Good,820.4401032566234,Accepted
+45,male,Skilled,own,little,little,2303,24,car,Good,769.7445836614858,Accepted
+35,male,Skilled,own,little,little,2346,24,car,Good,513.5455001754409,Accepted
+22,male,Skilled,free,little,little,3973,14,car,Good,550.60036771349,Accepted
+41,male,Unskilled-Resident,own,little,moderate,888,12,car,Good,799.6434228951282,Accepted
+28,female,Skilled,own,little,moderate,4221,30,business,Good,496.92538398640346,Accepted
+23,male,Skilled,rent,little,rich,1297,12,radio/TV,Good,867.6078781495802,Accepted
+23,male,Skilled,own,little,little,900,12,car,Good,812.7327997858101,Accepted
+50,male,Skilled,own,little,little,2241,21,furniture/equipment,Good,795.4951910995744,Accepted
+35,male,Highly Skilled,own,little,moderate,1050,6,furniture/equipment,Good,799.7396364638754,Accepted
+50,female,Unskilled-Resident,own,little,rich,1047,6,education,Good,873.8713432657042,Accepted
+34,male,Skilled,own,rich,moderate,3496,30,furniture/equipment,Good,519.852038800823,Accepted
+43,male,Skilled,rent,little,little,4843,12,car,Good,533.3909030274154,Accepted
+47,male,Skilled,own,little,rich,3017,30,radio/TV,Good,542.5272139889663,Accepted
+27,male,Unskilled-Resident,own,moderate,little,4139,24,business,Good,523.2453300913899,Accepted
+24,male,Skilled,own,quite rich,little,2080,6,car,Good,842.9363462811415,Accepted
+41,male,Unskilled-Resident,own,quite rich,little,2580,21,business,Good,536.566539473101,Accepted
+26,female,Highly Skilled,rent,little,little,4530,30,radio/TV,Good,477.1269694510718,Accepted
+33,male,Skilled,own,little,little,5150,24,furniture/equipment,Good,530.9526335622031,Accepted
+64,male,Unskilled-Resident,rent,little,little,2384,24,radio/TV,Good,523.1944397323889,Accepted
+26,female,Skilled,own,little,little,1453,18,radio/TV,Good,813.7275714195704,Accepted
+56,female,Skilled,own,little,little,1538,6,education,Good,832.0347514336153,Accepted
+37,male,Skilled,free,little,little,2279,12,radio/TV,Good,822.7353458084773,Accepted
+33,male,Skilled,own,little,little,1478,15,radio/TV,Good,820.191544196935,Accepted
+47,male,Skilled,free,little,little,5103,24,radio/TV,Good,529.8583291393238,Accepted
+27,male,Skilled,own,little,rich,1347,10,radio/TV,Good,874.2717675565151,Accepted
+30,male,Skilled,free,moderate,moderate,2862,36,car,Good,484.3777931929944,Accepted
+35,male,Skilled,own,moderate,little,2753,9,radio/TV,Good,575.2831496219644,Accepted
+31,male,Skilled,own,rich,little,3651,12,car,Good,561.51145163015,Accepted
+25,male,Skilled,own,little,little,975,15,furniture/equipment,Good,827.5961315610299,Accepted
+25,female,Unskilled-Resident,own,moderate,moderate,2631,15,repairs,Good,573.1505045295662,Accepted
+29,male,Skilled,own,moderate,moderate,2896,24,radio/TV,Good,533.2478761140569,Accepted
+44,male,Unskilled-Resident,own,little,little,4716,6,car,Good,552.1912267086152,Accepted
+28,male,Skilled,own,little,little,2284,24,radio/TV,Good,802.5363364907837,Accepted
+50,male,Skilled,rent,quite rich,little,1236,6,car,Good,823.1830799835246,Accepted
+29,male,Skilled,own,little,moderate,1103,12,radio/TV,Good,822.7353458084773,Accepted
+38,female,Unskilled-Non Resident,own,little,little,926,12,car,Good,805.8807307473214,Accepted
+24,male,Skilled,own,little,little,1800,18,radio/TV,Good,810.8798105421102,Accepted
+40,male,Highly Skilled,rent,little,rich,1905,15,education,Good,816.8425560284892,Accepted
+29,female,Unskilled-Resident,rent,quite rich,little,1123,12,furniture/equipment,Good,834.6910869482151,Accepted
+47,female,Skilled,free,moderate,rich,1377,24,radio/TV,Good,834.1313123096509,Accepted
+41,male,Skilled,own,moderate,moderate,2503,30,business,Good,480.9882462182613,Accepted
+32,female,Skilled,own,little,moderate,2528,27,business,Good,487.2255540704545,Accepted
+25,female,Skilled,rent,little,moderate,2969,12,furniture/equipment,Good,566.7351741823197,Accepted
+25,female,Skilled,own,little,moderate,1206,9,radio/TV,Good,847.4193708761511,Accepted
+37,male,Unskilled-Resident,own,little,moderate,2118,9,radio/TV,Good,834.8717800827421,Accepted
+32,male,Highly Skilled,own,quite rich,little,629,18,radio/TV,Good,786.4101917802151,Accepted
+35,female,Skilled,free,little,little,1198,6,education,Good,835.4242984083484,Accepted
+46,male,Highly Skilled,own,little,little,2476,21,car,Good,485.6625261850216,Accepted
+25,male,Unskilled-Resident,own,little,little,1138,9,radio/TV,Good,844.571609998691,Accepted
+40,male,Skilled,own,little,little,3077,30,radio/TV,Good,500.69062215687734,Accepted
+32,male,Highly Skilled,free,little,little,1505,18,radio/TV,Good,768.3430795591486,Accepted
+31,male,Skilled,own,little,rich,3148,24,radio/TV,Good,575.0844679461459,Accepted
+34,male,Highly Skilled,own,little,rich,1337,9,radio/TV,Good,843.8714708478183,Accepted
+24,female,Skilled,rent,rich,moderate,433,6,education,Good,856.5273511384288,Accepted
+24,female,Unskilled-Resident,own,little,little,1228,12,car,Good,815.5805606632703,Accepted
+66,female,Unskilled-Resident,own,quite rich,moderate,790,9,radio/TV,Good,852.3971062065357,Accepted
+41,female,Unskilled-Resident,own,rich,little,250,6,car,Good,832.6947302679197,Accepted
+47,male,Unskilled-Resident,own,quite rich,little,1316,15,radio/TV,Good,834.8691094432684,Accepted
+25,female,Skilled,rent,little,little,1882,18,radio/TV,Good,807.0636820126355,Accepted
+36,male,Skilled,own,rich,rich,1275,24,business,Good,833.0378346893743,Accepted
+21,male,Unskilled-Resident,rent,little,little,1987,24,radio/TV,Good,795.8724470838488,Accepted
+44,female,Unskilled-Resident,own,little,moderate,760,8,radio/TV,Good,834.3299939854692,Accepted
+28,female,Skilled,rent,rich,little,2603,24,car,Good,537.4963137829816,Accepted
+37,female,Skilled,own,little,little,3380,4,car,Good,558.4285345608084,Accepted
+29,female,Unskilled-Non Resident,own,little,moderate,3990,36,domestic appliances,Good,504.63268745721666,Accepted
+35,male,Unskilled-Resident,own,moderate,little,4380,18,car,Good,521.8889742267676,Accepted
+26,female,Unskilled-Resident,rent,moderate,moderate,4280,30,business,Good,490.26149457946855,Accepted
+32,male,Skilled,own,moderate,little,2325,24,car,Good,513.5455001754409,Accepted
+23,male,Unskilled-Resident,own,little,moderate,1048,10,radio/TV,Good,832.4351757244261,Accepted
+41,male,Skilled,own,little,little,3160,21,radio/TV,Good,538.2018031906505,Accepted
+22,male,Skilled,own,quite rich,little,2483,24,furniture/equipment,Good,558.7195756992186,Accepted
+28,male,Unskilled-Resident,own,little,little,1797,13,business,Good,810.1889981742678,Accepted
+23,female,Skilled,rent,little,little,2511,15,car,Good,546.7842391840152,Accepted
+37,female,Unskilled-Resident,own,little,little,1274,12,car,Good,805.8807307473214,Accepted
+26,male,Skilled,own,little,little,5248,21,car,Good,531.5888041427165,Accepted
+33,male,Skilled,own,little,little,3029,15,car,Good,540.900537797541,Accepted
+49,female,Skilled,own,little,little,428,6,furniture/equipment,Good,832.0347514336153,Accepted
+23,female,Unskilled-Resident,own,little,little,976,18,car,Good,794.0251954809544,Accepted
+23,female,Unskilled-Resident,rent,moderate,moderate,841,12,business,Good,808.9166712563353,Accepted
+55,male,Skilled,free,rich,little,1555,12,repairs,Good,837.4129110548107,Accepted
+32,female,Skilled,rent,little,little,1285,24,car,Good,769.3180021067441,Accepted
+74,male,Unskilled-Non Resident,own,little,rich,1299,6,car,Good,853.616449001482,Accepted
+39,male,Skilled,free,little,rich,1271,15,radio/TV,Good,858.6385890542908,Accepted
+31,male,Skilled,own,little,little,1393,24,car,Good,773.1341306362189,Accepted
+35,male,Skilled,own,little,little,691,12,car,Good,803.0329698698613,Accepted
+59,female,Skilled,own,little,little,5045,15,car,Good,540.358751700268,Accepted
+24,female,Skilled,rent,little,little,2124,18,furniture/equipment,Good,804.7684394607816,Accepted
+24,male,Unskilled-Resident,own,little,little,2214,12,radio/TV,Good,832.4351757244261,Accepted
+27,male,Skilled,own,moderate,little,2463,24,car,Good,523.2453300913899,Accepted
+40,male,Unskilled-Resident,own,little,moderate,1155,12,radio/TV,Good,819.3457988337442,Accepted
+31,male,Unskilled-Resident,own,little,little,3108,30,furniture/equipment,Good,501.78492657975653,Accepted
+31,female,Skilled,rent,little,little,2901,10,car,Good,539.6282108796087,Accepted
+28,male,Skilled,rent,little,moderate,3617,12,furniture/equipment,Good,563.8874133048596,Accepted
+63,male,Unskilled-Resident,own,little,little,1655,12,radio/TV,Good,819.3457988337442,Accepted
+26,female,Skilled,rent,little,little,2812,24,car,Good,519.4292015619151,Accepted
+52,male,Skilled,own,moderate,little,2223,24,radio/TV,Good,789.4469596001018,Accepted
+66,male,Unskilled-Non Resident,free,quite rich,rich,1480,12,car,Good,859.5471269482837,Accepted
+25,female,Skilled,rent,little,little,1371,24,car,Good,779.0178320226929,Accepted
+37,male,Skilled,own,little,little,3535,36,car,Good,484.3777931929944,Accepted
+25,female,Skilled,own,little,little,3509,18,radio/TV,Good,554.1389409587927,Accepted
+67,female,Skilled,own,little,moderate,3872,18,repairs,Good,541.0495640681106,Accepted
+25,male,Skilled,own,little,moderate,4933,39,radio/TV,Good,487.55250366583806,Accepted
+60,male,Skilled,own,rich,little,1940,24,car,Good,787.8116958825523,Accepted
+31,male,Unskilled-Resident,own,little,moderate,1410,12,education,Good,820.4401032566234,Accepted
+23,female,Unskilled-Resident,own,moderate,moderate,836,12,car,Good,815.5805606632703,Accepted
+35,male,Unskilled-Resident,own,rich,moderate,1941,18,business,Good,799.5447169086119,Accepted
+40,male,Skilled,own,quite rich,little,2675,22,radio/TV,Good,547.9254413603903,Accepted
+38,male,Skilled,own,little,little,2751,48,car,Good,458.15029781127305,Accepted
+39,female,Skilled,own,little,moderate,1188,21,business,Good,780.9358185902724,Accepted
+27,male,Skilled,own,little,little,1221,6,furniture/equipment,Good,842.2763674468371,Accepted
+51,male,Skilled,free,little,rich,2892,24,furniture/equipment,Good,569.399678419559,Accepted
+32,male,Skilled,rent,quite rich,little,3062,24,furniture/equipment,Good,542.3558563763347,Accepted
+22,female,Skilled,rent,moderate,little,2301,9,furniture/equipment,Good,838.4602389173623,Accepted
+22,female,Unskilled-Resident,rent,little,little,1258,12,furniture/equipment,Good,826.3238046430974,Accepted
+54,male,Skilled,own,little,little,717,24,car,Good,769.7445836614858,Accepted
+35,male,Unskilled-Non Resident,own,little,moderate,1549,9,car,Good,815.1694041441261,Accepted
+54,male,Skilled,free,little,little,1597,24,education,Good,787.1517170482479,Accepted
+48,female,Unskilled-Resident,rent,little,moderate,1795,18,radio/TV,Good,793.9743051219535,Accepted
+24,female,Skilled,own,little,little,4272,20,furniture/equipment,Good,551.8436984069388,Accepted
+35,male,Skilled,own,little,little,976,12,radio/TV,Good,822.7353458084773,Accepted
+26,male,Unskilled-Resident,own,little,moderate,590,6,radio/TV,Good,844.571609998691,Accepted
+65,male,Skilled,own,little,little,930,12,radio/TV,Good,819.3457988337442,Accepted
+26,female,Unskilled-Non Resident,rent,little,moderate,1778,15,car,Good,806.372869644793,Accepted
+26,male,Skilled,own,little,moderate,907,8,business,Good,824.869234060075,Accepted
+28,male,Unskilled-Resident,own,little,moderate,484,6,radio/TV,Good,844.571609998691,Accepted
+62,male,Skilled,own,quite rich,little,1338,6,domestic appliances,Good,847.2541027772216,Accepted
+24,female,Skilled,rent,little,little,1554,6,radio/TV,Good,840.7554814692162,Accepted
+26,male,Skilled,own,little,little,1345,18,radio/TV,Good,810.8798105421102,Accepted
+27,male,Skilled,own,little,little,1101,12,car,Good,812.7327997858101,Accepted
+24,male,Skilled,own,little,rich,3016,12,radio/TV,Good,614.6831370957374,Accepted
+47,male,Unskilled-Resident,own,little,little,731,8,car,Good,811.779857169393,Accepted
+35,male,Highly Skilled,own,little,little,3780,18,furniture/equipment,Good,506.45920654651695,Accepted
+30,male,Skilled,own,little,little,1602,21,car,Good,781.4776046875454,Accepted
+33,female,Skilled,rent,little,little,3966,18,car,Good,518.0728456972928,Accepted
+36,male,Skilled,own,little,little,4165,18,business,Good,521.8889742267676,Accepted
+44,male,Skilled,own,quite rich,little,2375,24,business,Good,528.2230654217743,Accepted
+23,female,Skilled,rent,little,little,1216,18,car,Good,787.3613060740195,Accepted
+42,female,Skilled,own,little,moderate,5084,24,radio/TV,Good,532.706090016784,Accepted
+25,female,Unskilled-Resident,own,little,rich,2327,15,radio/TV,Good,614.9870963616552,Accepted
+48,male,Skilled,own,little,little,1082,12,car,Good,799.6434228951282,Accepted
+21,female,Skilled,own,little,little,886,12,radio/TV,Good,835.2829366018863,Accepted
+23,female,Unskilled-Resident,rent,little,little,601,4,furniture/equipment,Good,838.4602389173623,Accepted
+63,male,Skilled,own,little,little,2957,24,car,Good,510.1559532007078,Accepted
+46,male,Skilled,own,little,little,2611,24,radio/TV,Good,529.8583291393238,Accepted
+29,male,Skilled,own,little,little,5179,36,furniture/equipment,Good,501.78492657975653,Accepted
+28,male,Unskilled-Resident,own,little,little,2993,21,car,Good,531.5888041427165,Accepted
+23,female,Skilled,own,little,little,1943,18,repairs,Good,813.7275714195704,Accepted
+50,male,Skilled,own,little,little,1559,24,business,Good,769.7445836614858,Accepted
+47,male,Skilled,own,little,little,3422,18,furniture/equipment,Good,535.9065606387966,Accepted
+35,male,Skilled,own,little,moderate,3976,21,furniture/equipment,Good,539.2961076135297,Accepted
+28,male,Skilled,own,little,little,1249,24,car,Good,782.8339605521677,Accepted
+59,male,Skilled,own,little,little,1364,9,radio/TV,Good,831.482233108009,Accepted
+57,male,Unskilled-Resident,own,little,little,709,12,radio/TV,Good,819.3457988337442,Accepted
+33,male,Skilled,rent,little,little,2235,20,car,Good,774.8137152806105,Accepted
+43,male,Skilled,own,little,little,4042,24,car,Good,510.1559532007078,Accepted
+35,male,Skilled,free,little,little,1471,15,radio/TV,Good,820.191544196935,Accepted
+32,male,Unskilled-Resident,free,little,little,1442,18,car,Good,781.4776046875454,Accepted
+33,male,Skilled,own,moderate,little,1474,24,car,Good,773.1341306362189,Accepted
+40,female,Skilled,own,little,little,894,10,education,Good,819.8983171593504,Accepted
+28,male,Skilled,free,little,little,3343,15,furniture/equipment,Good,568.0075011002522,Accepted
+29,female,Skilled,own,little,little,3959,15,car,Good,543.7482986750011,Accepted
+26,male,Skilled,rent,moderate,little,3577,9,car,Good,558.6167141923623,Accepted
+28,male,Skilled,own,little,little,2169,18,business,Good,791.1774346034942,Accepted
+35,female,Skilled,own,little,little,2439,24,radio/TV,Good,536.095636991517,Accepted
+32,male,Unskilled-Resident,own,rich,little,4526,27,furniture/equipment,Good,519.852038800823,Accepted
+25,male,Unskilled-Resident,rent,little,little,2210,10,furniture/equipment,Good,823.4760437656373,Accepted
+20,female,Skilled,rent,quite rich,little,2221,15,furniture/equipment,Good,841.8471152526216,Accepted
+27,female,Skilled,own,little,little,2389,18,radio/TV,Good,554.1389409587927,Accepted
+42,male,Skilled,own,little,little,3331,12,furniture/equipment,Good,557.4619258211125,Accepted
+24,female,Skilled,rent,little,little,652,12,furniture/equipment,Good,826.3238046430974,Accepted
+46,male,Skilled,own,little,rich,1343,6,car,Good,853.616449001482,Accepted
+26,male,Skilled,own,moderate,little,1382,24,business,Good,782.8339605521677,Accepted
+24,female,Skilled,own,little,little,874,15,domestic appliances,Good,830.44389243849,Accepted
+29,male,Unskilled-Resident,own,little,little,3590,12,furniture/equipment,Good,560.8514727958456,Accepted
+40,female,Skilled,own,rich,moderate,1322,11,car,Good,820.5582959936548,Accepted
+36,male,Highly Skilled,free,little,little,1940,18,radio/TV,Good,768.3430795591486,Accepted
+28,male,Skilled,own,little,little,3595,36,radio/TV,Good,513.7799990475594,Accepted
+27,male,Highly Skilled,free,little,little,1422,9,car,Good,792.0323329930624,Accepted
+36,male,Skilled,own,little,moderate,2181,30,car,Good,743.9664236537723,Accepted
+65,female,Unskilled-Non Resident,own,little,little,1098,18,radio/TV,Good,800.6381945288884,Accepted
+43,male,Skilled,own,little,moderate,4057,24,furniture/equipment,Good,527.56308658747,Accepted
+53,female,Skilled,own,little,little,795,12,education,Good,819.8983171593504,Accepted
+34,male,Skilled,own,little,moderate,2825,24,business,Good,513.5455001754409,Accepted
+43,male,Highly Skilled,own,little,little,2442,27,business,Good,448.15134515124845,Accepted
+46,male,Skilled,own,little,little,1829,15,radio/TV,Good,816.8019972222019,Accepted
+38,male,Unskilled-Resident,own,little,little,2171,12,car,Good,803.0329698698613,Accepted
+29,male,Skilled,own,little,little,1169,18,radio/TV,Good,801.1799806261614,Accepted
+28,female,Highly Skilled,rent,little,little,2606,21,radio/TV,Good,514.6381504848449,Accepted
+35,female,Skilled,own,rich,little,1592,12,furniture/equipment,Good,841.35497635515,Accepted
+33,female,Unskilled-Resident,rent,little,little,2186,15,furniture/equipment,Good,814.0801731156063,Accepted
+42,male,Skilled,own,little,little,4153,18,furniture/equipment,Good,535.9065606387966,Accepted
+43,male,Skilled,rent,little,little,2625,16,car,Good,511.8355378450995,Accepted
+44,male,Skilled,own,little,little,3485,20,car,Good,518.4994272520345,Accepted
+40,male,Skilled,rent,little,little,1386,15,radio/TV,Good,810.138107815267,Accepted
+36,male,Highly Skilled,own,little,little,1278,24,radio/TV,Good,759.999605507822,Accepted
+20,male,Highly Skilled,rent,little,little,1107,12,radio/TV,Good,792.9343852504784,Accepted
+24,male,Unskilled-Resident,own,little,little,3763,21,car,Good,531.5888041427165,Accepted
+27,male,Skilled,own,little,moderate,3711,36,education,Good,511.4847564957055,Accepted
+46,female,Unskilled-Resident,own,little,little,3594,15,car,Good,540.358751700268,Accepted
+33,female,Unskilled-Resident,own,little,moderate,3195,9,car,Good,558.4285345608084,Accepted
+34,female,Skilled,own,little,little,4454,36,radio/TV,Good,506.92793000907056,Accepted
+25,female,Unskilled-Resident,own,little,moderate,4736,24,furniture/equipment,Good,543.5002243556122,Accepted
+25,female,Skilled,own,little,moderate,2991,30,radio/TV,Good,516.6277599250195,Accepted
+28,male,Skilled,own,rich,little,2142,11,business,Good,830.7999120068766,Accepted
+31,male,Skilled,rent,little,little,3161,24,business,Good,506.881610768506,Accepted
+32,male,Skilled,own,moderate,little,2848,10,car,Good,543.4443394090835,Accepted
+33,male,Skilled,own,moderate,little,2359,24,furniture/equipment,Good,530.9526335622031,Accepted
+39,male,Highly Skilled,rent,little,little,3345,24,furniture/equipment,Good,488.0622961135223,Accepted
+28,female,Skilled,own,little,little,1817,18,furniture/equipment,Good,811.4323288677165,Accepted
+22,female,Skilled,rent,little,little,1366,9,radio/TV,Good,840.7554814692162,Accepted
+30,male,Skilled,rent,little,moderate,2002,12,car,Good,796.3690804629264,Accepted
+46,male,Skilled,own,little,little,697,12,car,Good,799.6434228951282,Accepted
+21,female,Skilled,rent,little,little,1049,18,furniture/equipment,Good,804.7684394607816,Accepted
+58,male,Skilled,own,little,little,1867,30,radio/TV,Good,760.2792526176552,Accepted
+43,male,Unskilled-Resident,own,little,little,1344,12,car,Good,799.6434228951282,Accepted
+24,male,Unskilled-Resident,own,little,little,1747,24,furniture/equipment,Good,800.2410939389298,Accepted
+22,female,Skilled,own,little,moderate,1670,9,radio/TV,Good,847.4193708761511,Accepted
+30,male,Skilled,own,little,little,1224,9,car,Good,815.1694041441261,Accepted
+42,male,Skilled,own,quite rich,little,522,12,radio/TV,Good,837.4129110548107,Accepted
+23,female,Skilled,own,little,little,1498,12,radio/TV,Good,835.2829366018863,Accepted
+30,male,Highly Skilled,own,moderate,moderate,1919,30,radio/TV,Good,730.8318985253754,Accepted
+28,female,Unskilled-Resident,own,little,rich,745,9,radio/TV,Good,889.2559627082401,Accepted
+30,male,Highly Skilled,rent,little,moderate,2063,6,radio/TV,Good,795.3709896087944,Accepted
+45,male,Highly Skilled,own,little,little,3527,12,car,Good,507.2178913673375,Accepted
+31,male,Unskilled-Resident,own,little,little,1546,10,car,Good,803.0329698698613,Accepted
+31,male,Skilled,own,little,little,929,24,furniture/equipment,Good,790.541264022981,Accepted
+42,male,Unskilled-Resident,own,little,little,1455,4,car,Good,811.779857169393,Accepted
+46,female,Skilled,rent,little,little,1845,15,furniture/equipment,Good,810.6906261408732,Accepted
+30,male,Skilled,free,quite rich,little,3349,24,furniture/equipment,Good,549.0197457832696,Accepted
+38,male,Highly Skilled,own,little,little,2859,12,car,Good,510.6074383420707,Accepted
+43,male,Unskilled-Resident,own,little,little,1533,18,furniture/equipment,Good,795.4951910995744,Accepted
+31,male,Skilled,own,moderate,little,3621,24,radio/TV,Good,533.2478761140569,Accepted
+40,male,Unskilled-Non Resident,own,little,moderate,3590,18,business,Good,518.4994272520345,Accepted
+24,male,Skilled,own,little,little,2145,36,business,Good,753.6662535697211,Accepted
+28,female,Skilled,rent,quite rich,moderate,4113,24,car,Good,537.4963137829816,Accepted
+29,female,Skilled,own,little,little,1893,12,car,Good,805.8807307473214,Accepted
+57,female,Highly Skilled,rent,rich,little,1231,24,radio/TV,Good,770.8610422246807,Accepted
+49,male,Unskilled-Resident,own,little,rich,3656,30,radio/TV,Good,542.5272139889663,Accepted
+37,male,Unskilled-Resident,own,little,moderate,1154,9,radio/TV,Good,834.8717800827421,Accepted
+45,male,Unskilled-Resident,own,little,little,4006,28,car,Good,480.9882462182613,Accepted
+30,male,Skilled,free,moderate,moderate,3069,24,furniture/equipment,Good,530.9526335622031,Accepted
+30,male,Skilled,rent,little,little,1740,6,radio/TV,Good,828.2078906758072,Accepted
+47,male,Skilled,own,little,moderate,2353,21,car,Good,518.4994272520345,Accepted
+29,male,Skilled,own,little,little,3556,15,car,Good,540.900537797541,Accepted
+35,male,Skilled,own,quite rich,little,2397,24,radio/TV,Good,551.3149883351234,Accepted
+22,male,Unskilled-Resident,own,little,moderate,454,6,repairs,Good,844.571609998691,Accepted
+26,female,Skilled,own,little,moderate,1715,30,radio/TV,Good,776.2163903857972,Accepted
+23,male,Unskilled-Resident,own,quite rich,moderate,2520,27,radio/TV,Good,531.8471112686259,Accepted
+54,female,Highly Skilled,rent,little,little,3568,15,radio/TV,Good,520.5603371649363,Accepted
+40,male,Unskilled-Resident,own,little,little,3939,11,car,Good,540.0547924343504,Accepted
+22,male,Skilled,own,moderate,moderate,1514,15,repairs,Good,829.8913741128838,Accepted
+29,female,Unskilled-Non Resident,rent,little,little,1193,24,car,Good,769.3180021067441,Accepted
+33,female,Skilled,own,little,little,2831,30,radio/TV,Good,506.92793000907056,Accepted
+57,female,Unskilled-Resident,own,quite rich,rich,1258,24,radio/TV,Good,852.1984245307174,Accepted
+64,female,Skilled,own,little,moderate,753,6,radio/TV,Good,834.3299939854692,Accepted
+42,male,Skilled,own,little,moderate,2427,18,business,Good,518.4994272520345,Accepted
+47,male,Unskilled-Resident,own,little,little,2538,24,car,Good,510.1559532007078,Accepted
+25,male,Skilled,rent,moderate,moderate,1264,15,car,Good,803.5251087673329,Accepted
+28,female,Highly Skilled,own,moderate,rich,2923,21,car,Good,543.4362557852529,Accepted
+30,male,Unskilled-Resident,own,little,little,2028,24,furniture/equipment,Good,790.541264022981,Accepted
+25,female,Skilled,rent,little,little,1433,15,furniture/equipment,Good,823.7800030315551,Accepted
+64,female,Skilled,own,moderate,little,1409,13,radio/TV,Good,819.649758099662,Accepted
+48,male,Unskilled-Resident,own,little,moderate,1743,24,radio/TV,Good,789.4469596001018,Accepted
+37,male,Unskilled-Resident,own,little,little,3565,12,education,Good,560.8514727958456,Accepted
+34,male,Unskilled-Resident,own,moderate,little,1569,15,radio/TV,Good,820.191544196935,Accepted
+23,male,Unskilled-Resident,rent,little,little,1936,18,radio/TV,Good,804.2159211351753,Accepted
+50,male,Skilled,own,little,little,2390,12,car,Good,540.0547924343504,Accepted
+31,female,Unskilled-Resident,own,little,little,1736,12,furniture/equipment,Good,823.2878641340835,Accepted
+38,male,Skilled,own,little,little,804,12,radio/TV,Good,822.7353458084773,Accepted
+23,male,Skilled,free,little,little,1845,45,radio/TV,Good,747.1411341266157,Accepted
